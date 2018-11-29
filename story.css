@@ -1,0 +1,9 @@
+.userAnswer:hover {
+	color: rgba(0,0,0,.7);
+}
+
+.userAnswer {
+	margin-left:10px; 
+	margin-right: 10px; 
+	color: rgba(0,0,0,.5);
+}
